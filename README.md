@@ -8,4 +8,4 @@ Estou estudando na ![Alura](https://www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 
 
-![]([https://tenor.com/pt-BR/view/cool-fun-white-cat-dance-cool-and-fun-times-gif-11626785186067667293](https://media1.tenor.com/m/oVqjhn9WWV0AAAAd/cool-fun.gif))
+![](https://media1.tenor.com/m/oVqjhn9WWV0AAAAd/cool-fun.gif)
